@@ -1,9 +1,5 @@
 # The impact of Rideshare services in San Diego County
 
-<<<<<<< HEAD
-## Team Members
-=======
->>>>>>> b27db69db05b7c13ea9f62d3a4702dcb66433c76
 ## Team covfefe
 * Dan Fox
 * Pravin Venkatraman

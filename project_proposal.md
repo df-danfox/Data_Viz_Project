@@ -1,34 +1,30 @@
-# The impact of Rideshare services in San Diego County
+# The impact of Rideshare services in San Diego and Dallas County
 
-<<<<<<< HEAD
-## Team Members
-=======
->>>>>>> b27db69db05b7c13ea9f62d3a4702dcb66433c76
 ## Team covfefe
 * Dan Fox
 * Pravin Venkatraman
 * Farzad Khatoonabadi
 
 ## Project Description
-We are interested in finding out the impact of rideshare services
-have had in two cities, where one city has banned them and the other city supports the service.
+We are interested in finding out the impact of rideshailing services have had in two cities.
 
 ## Questions we want to research
-* What is the impact in traffic in each county
-* Compare uber usage to pubic transportation
-* Accident rates, have they changed if at all
-* How has it affect Taxi industry (city) and Limo Industry
-
-* Can we forcast the usage in Dallas, which previously banned the service and where it will go today.
+ * How has the introduction of rideshare companies affected the Taxi and Limo Industry
+ * Where should I start a rideshare in San Digeo or Dallas Counties.
+ * What is the age of passengers?
+ * WShould we add New York to the mix. Why?
+ * How much money will someone make as a taxi/limo driver
+ * Have accident fatalities changed since rideshare companies were introduced.
 
  ## Datasets
- BestPlaces.net
- US Census Bureau
- Current Population Survey
- Federal Highway Administration
- Bureau of Labor Statistics
+ * suburbanstats.org
+ * data.cityofnewyork.usUS
+ * Census Bureau
+ * Federal Highway Administration
+ * Bureau of Labor Statistics
+ 
 
 ## Tasks
-Gather , Clean, Compare Data
-Visualize the data
-Presentation
+ * Gather , Clean, Compare Data
+ * Visualize the data
+ * Presentation

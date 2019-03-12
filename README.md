@@ -3,4 +3,4 @@
 
 * onestopdata.ipynb ,  located in Master Branch
 * New Your Taxi 4 Year Comparison - adding years.ipynb , located in Master Branch/Farzad Dir
-* Work File V5.ipynb, located in Pscope Branch/Resources
+* Analyses Code- Demand, Competition & Expected Wage.ipynb, located in Master Branch/PravinFeature
